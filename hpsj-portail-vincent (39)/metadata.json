@@ -1,0 +1,8 @@
+{
+  "name": "HPSJ Portail vincent",
+  "description": "Unified Medical Directory, Hospital Map, and HR Portal for HPSJ",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
